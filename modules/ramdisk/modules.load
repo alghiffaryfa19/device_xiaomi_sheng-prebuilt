@@ -108,7 +108,7 @@ zsmalloc.ko
 dump_display.ko
 low_free_memory_kill.ko
 wl2868c.ko
-mpbe.ko
+cma_balance.ko
 qrng_dlkm.ko
 bootinfo.ko
 debug_ext.ko

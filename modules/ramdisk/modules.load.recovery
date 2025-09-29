@@ -108,7 +108,7 @@ zsmalloc.ko
 dump_display.ko
 low_free_memory_kill.ko
 wl2868c.ko
-mpbe.ko
+cma_balance.ko
 msm_sysstats.ko
 cpq.ko
 msm_show_resume_irq.ko
@@ -256,6 +256,8 @@ leds-qti-flash.ko
 leds-qti-tri-led.ko
 memlat_vendor.ko
 cpufreq_stats_vendor.ko
+hid-xbox_haptics-mi.ko
+mi_mempool.ko
 binder_prio.ko
 ipa_fmwk.ko
 qcom_pil_info.ko
